@@ -64,3 +64,12 @@ This is a ~script~
 
 - [ ] asdfasdf
 
+
+[Link to GitHub](https://github.com)
+![Image Alt Text](image-url.png)
+
+
+[Markdown file](https://github.com/karthikmkrishnan1967/MarkdownFiles/blob/main/Firstfile.md)
+
+# KARTHIKEYAN
+
