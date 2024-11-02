@@ -49,25 +49,6 @@ This is a ~script~
 
 :smile:
 
-![Bus](/Users/karthikeyanm/Desktop/bus.jpeg)
-
-+ item1
-+ item2
-+ item3
-
-**************  
-
-1. sdfsdf
-   1. 3
-      1. 3  
-
-
-- [ ] asdfasdf
-
-
-[Link to GitHub](https://github.com)
-![Image Alt Text](image-url.png)
-
 
 [Markdown file](https://github.com/karthikmkrishnan1967/MarkdownFiles/blob/main/Firstfile.md)
 
